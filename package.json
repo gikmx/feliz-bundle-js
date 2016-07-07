@@ -1,6 +1,6 @@
 {
   "name": "feliz-bundle-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for feliz.js that enables stylus rendering.",
   "main": "lib/index.js",
   "author": "Héctor Menéndez <etor@gik.mx>",
