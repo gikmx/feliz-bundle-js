@@ -1,5 +1,5 @@
 {
-  "name": "feliz-webpack",
+  "name": "feliz-bundle-js",
   "version": "0.0.1",
   "description": "A plugin for feliz.js that enables stylus rendering.",
   "main": "lib/index.js",
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gikmx/feliz-webpack"
+    "url": "https://github.com/gikmx/feliz-bundle-js"
   },
   "bugs": {
-    "url": "https://github.com/gikmx/feliz-webpack/issues"
+    "url": "https://github.com/gikmx/feliz-bundle-js/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,9 @@
   "dependencies": {
     "boom": "^3.2.2",
     "feliz-bundler": "0.0.2",
-    "rxjs": "^5.0.0-beta.10"
+    "memory-fs": "^0.3.0",
+    "rxjs": "^5.0.0-beta.10",
+    "webpack": "^1.13.1",
+    "webpack-validator": "^2.2.2"
   }
 }

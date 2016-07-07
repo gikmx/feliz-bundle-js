@@ -1,6 +1,6 @@
-# feliz-webpack
+# feliz-bundle-js
 
-A plugin for feliz.js that enables webpack rendering.
+A plugin for feliz.js that enables js rendering.
 
 ## License
 
