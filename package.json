@@ -1,6 +1,6 @@
 {
   "name": "feliz-webpack",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "A plugin for feliz.js that enables stylus rendering.",
   "main": "lib/index.js",
   "author": "Héctor Menéndez <etor@gik.mx>",
@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "boom": "^3.2.2",
+    "feliz-bundler": "0.0.1",
     "hapi": "^13.4.2",
     "rxjs": "^5.0.0-beta.10"
   }
