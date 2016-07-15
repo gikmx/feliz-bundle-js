@@ -1,6 +1,6 @@
 {
   "name": "feliz-bundle-js",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A plugin for feliz.js that enables javascript rendering.",
   "main": "lib/index.js",
   "author": "Héctor Menéndez <etor@gik.mx>",
