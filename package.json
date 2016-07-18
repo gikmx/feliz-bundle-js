@@ -1,6 +1,6 @@
 {
   "name": "feliz-bundle-js",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "A plugin for feliz.js that enables javascript rendering.",
   "main": "lib/index.js",
   "author": "Héctor Menéndez <etor@gik.mx>",
@@ -25,6 +25,7 @@
   "dependencies": {
     "boom": "^3.2.2",
     "feliz.bundler": "0.0.5",
+    "joi": "^9.0.1",
     "memory-fs": "^0.3.0",
     "rxjs": "^5.0.0-beta.10",
     "webpack": "^1.13.1",
